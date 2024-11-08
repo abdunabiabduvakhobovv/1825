@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+.aqua-bg{
+    background-color: rgb(188, 255, 255);
+    text-align: center;
+    border-radius: 25px;
+    border: solid red 2px ;
+}
+
+.red-bg{
+    color: rgb(161, 17, 17);
+}
+
+.green-bg{
+    color: green;
+}
+
+.yellow-bg{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+.yellow-bg{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+.aquamarine-bg{
+    background-color:aquamarine;
+}
+
+.th-bg{
+    background-color:redZ;
+    border: solid wheat;
+    width: 200px;
+    color: aliceblue;
+}
+
+.blue-bg{
+    background-color: blue;
+    width: 800px;
+    color: aliceblue;
+}
+
+.th-bg{
+    background-color: red;
+    color: aliceblue;
+}
+
+.block-bg{
+    background-color: black;
+    color: aliceblue;
+}
+    
+.rod-bg{
+    background-color: red;
+    color: aliceblue;
+    border: solid wheat;
+}
+
+.line-bg{
+    border: solid wheat;
+}
